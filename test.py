@@ -1,3 +1,2 @@
-abc
-abc
-abc
+print "Hello Everyone"
+print 1+100
