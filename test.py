@@ -1,6 +1,5 @@
 import sys
 import logging
-
 def main(argv=None):
 
     log = logging.getLogger('test')
