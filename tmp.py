@@ -9,4 +9,5 @@ print c
 
 if 1==0
     print'cool'
+    print'cool'
 pent 'gg'
