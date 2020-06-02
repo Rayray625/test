@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<checkstyle version="4.3">
-    <file name="/Users/ray/Desktop/Dev/test/tt.js">
-        <error line="3" column="5" severity="error" message="Parsing error: Identifier &apos;a&apos; has already been declared" source="" />
-</file>
-</checkstyle>
